@@ -7,7 +7,7 @@
  * @package WordPress
  */
 
-/** Make sure that the WordPress bootstrap has run before continuing. */
+/** Make sure that the WordPress bootstrap has run before continuing. hehe*/
 require __DIR__ . '/wp-load.php';
 
 /** This filter is documented in wp-admin/options.php */
